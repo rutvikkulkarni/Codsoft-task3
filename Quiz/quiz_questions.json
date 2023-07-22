@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["London", "Paris", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which data type is used to store a sequence of characters in Python?",
+      "options": ["int", "str", "list", "float"],
+      "answer": "str"
+    },
+    {
+      "question": "What is the output of 'print(3 + 7 * 2)'?",
+      "options": ["10", "20", "17", "13"],
+      "answer": "17"
+    },
+    {
+      "question": "What keyword is used to define a function in Python?",
+      "options": ["def", "function", "define", "fun"],
+      "answer": "def"
+    },
+    {
+      "question": "Which of the following is not a loop statement in Python?",
+      "options": ["for", "while", "do-while", "loop"],
+      "answer": "do-while"
+    }
+  ]
+}
